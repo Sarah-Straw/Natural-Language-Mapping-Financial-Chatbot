@@ -21,5 +21,18 @@ Data was found in the 10K public files on Apple Tesla and Microsoft and compiled
 
 ## Example Output
 
+<p align="center">
+  <img src="images/apple2023.png" width="450"/>
+</p>
 
+<p align="center">
+  <img src="images/incomegrowth2023.png" width="450"/>
+</p
 
+<p align="center">
+  <img src="images/microsofttotalliabilities.png" width="450"/>
+</p
+
+<p align="center">
+  <img src="images/teslacash flow2024.png" width="450"/>
+</p
