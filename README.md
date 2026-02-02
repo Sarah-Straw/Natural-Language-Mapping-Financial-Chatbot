@@ -1,7 +1,7 @@
 # Natural-Language-Mapping-Financial-Chatbot
 A rule based chatbot which interprets natural language mapping into data indexes to generate question specific responses retrieving necessary data.
 
-Initially developed as part of BCG X's GenAI course on Forage, but developed further out of intrest. 
+Initially developed as part of BCG X's GenAI course on Forage, but developed further out of interest. 
 
 Data was found in the 10K public files on Apple Tesla and Microsoft and compiled into an excel file which is uploaded in this repository.
 
